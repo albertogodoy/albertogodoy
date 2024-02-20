@@ -1,7 +1,7 @@
-<img width="850" src="./images/logo-dev.png" alt="Dev Global Solutions" />
+<img width="550" src="./images/logo-dev.png" alt="Dev Global Solutions" />
 
 
->Hi, I'm **Alberto Godoy**, a specialist in software development.
+>Hi, I'm **Alberto Godoy**, CEO of Dev Global Solutions and specialist in software development.
 >
 >**I use:**
 >
