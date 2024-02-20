@@ -17,4 +17,6 @@
 
 
 [//]: #<img width="850" src="./images/Banner-2-2.png" alt="Alberto Banner" />
-[//]: <> (This is also a comment.)
+{% comment %} 
+    These commments will not include inside the source.
+{% endcomment %}
