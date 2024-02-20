@@ -1,4 +1,4 @@
-<img width="550" src="./images/logo-dev.png" alt="Dev Global Solutions" />
+<img width="550" src="./images/logo-dev.png" align="center" alt="Dev Global Solutions" />
 
 
 >Hi, I'm **Alberto Godoy**, CEO of Dev Global Solutions and specialist in software development.
