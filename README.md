@@ -7,9 +7,7 @@
 <code><img height="40" src="./images/icon-3-css.png" alt="Css" /></code>
 <code><img height="40" src="./images/icon-4-javascript.png" alt="JavaScript" /></code>
 <code><img height="40" src="./images/icon-8-typescript-2.png" alt="TypeScript" /></code>
-<code><img height="40" src="./images/icon-7-vscode.png" alt="Visual Studio Code" /></code>
 <code><img height="40" src="./images/icon-6-sketchbook.png" alt="Laravel" /></code>
-<code><img height="40" src="./images/icon-5-canva.png" alt="Canva" /></code>
 
 >## 📫 You can reach me on:
 >
