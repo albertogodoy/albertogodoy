@@ -2,6 +2,7 @@
 
 
 >Hi, I'm **Alberto Godoy**, CEO of Dev Global Solutions and specialist in software development.
+>I can proudly say that I have 5 years of experience as a software engineering specialist, during which I cultivated solid skills in the use of cutting-edge frameworks such as Angular, Node.js and Laravel. My skill extends to the domain of relational databases, highlighting my experience with PostgreSQL and MySQL. Furthermore, my command of programming languages ​​such as JavaScript and PHP has been fundamental in the success of my projects. Likewise, my experience has been in the administration of Ubuntu servers with Apache, including the implementation of domains, SSL redirects and URLs. I have had the privilege of participating in innovative projects based on blockchain, multitenant and CRM, thus consolidating my experience in various areas of software development.
 >
 >**I use:**
 >
