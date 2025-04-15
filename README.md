@@ -19,6 +19,6 @@
 
 >## 📫 Connect with us:
 >
->   - 🌐 **[Tripulación Digital Website](https://tripulacion.digital)**
+>   - 🌐 **[Tripulación Digital Website](https://tripulaciondigital.site)**
 >   - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" alt="Gmail Logo" width="15"/> **[Gmail](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJTMXPWxHXqTpZxNtXwdpsnCKDhzCxBXdRzfNlzSmhQksTbwSJgLkNZLJKBptKpDkTvkvjV)**
 
