@@ -1,8 +1,8 @@
-<img width="750" src="./images/logo-dev.png" align="center" alt="Dev Global Solutions" />
+<img width="750" src="./images/logo.png" align="center" alt="Dev Global Solutions" />
 
 # Tripulación Digital
 
->Hi, I'm **Alberto Godoy**, CEO and Founder of [Tripulación Digital](https://tripulacion.digital) and Dev Global Solutions. As a specialist in software development with over 5 years of experience, I've built a team dedicated to creating innovative digital solutions.
+>Hi, I'm **Alberto Godoy**, CEO and Founder of [Tripulación Digital](https://tripulaciondigital.site) and Dev Global Solutions. As a specialist in software development with over 5 years of experience, I've built a team dedicated to creating innovative digital solutions.
 >
 >My journey in software engineering has allowed me to cultivate solid skills with cutting-edge frameworks such as Angular, Node.js and Laravel. My expertise extends to relational databases, particularly PostgreSQL and MySQL, while my proficiency in JavaScript and PHP has been fundamental to the success of our projects. I also specialize in Ubuntu server administration with Apache, including domain implementation, SSL redirects, and URL management. Throughout my career, I've led innovative projects based on blockchain, multitenant architectures, and CRM systems, consolidating my experience across various areas of software development.
 >
